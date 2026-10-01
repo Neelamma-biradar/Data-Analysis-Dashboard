@@ -142,3 +142,6 @@ The final outcome of this project is an **interactive Adidas Sales Dashboard** t
 
 This project demonstrates practical skills in **data cleaning, data transformation, exploratory data analysis, KPI development, DAX, Power BI dashboard creation, and business data visualization**. It also demonstrates how raw business data can be transformed into useful information that supports **data-driven decision-making**.
 
+## Dashboard
+https://github.com/Neelamma-biradar/Data-Analysis-Dashboard/blob/main/Adidas%20Sales%20Dashboard.png
+
